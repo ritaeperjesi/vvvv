@@ -1,3 +1,3 @@
 # vvvv
 
-![lesson 1](../img/lesson1.png)
+![lesson 1](img/lesson1.png)
